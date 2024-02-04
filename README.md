@@ -20,4 +20,4 @@
   - Type `mvn test` on Terminal
 
 > [!NOTE]
-> Since the is inconsistency of the website, please re-run again if the automation meet with the Assert
+> Since there is inconsistency in the website, please re-run again if the automation meet with the Assert
